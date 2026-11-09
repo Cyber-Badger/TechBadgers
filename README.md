@@ -1,4 +1,6 @@
-# Tech Badgers — Cybersecurity Portfolio
+<p align="center">
+  <img src="logo.png" width="100%" alt="TechBadger | Cyber-Badger">
+</p># Tech Badgers — Cybersecurity Portfolio
 
 A responsive, static HTML/CSS/JavaScript portfolio website for Tech Badgers, with cybersecurity as the primary focus and enterprise IT experience as supporting credibility.
 
